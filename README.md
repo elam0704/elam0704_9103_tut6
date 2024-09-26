@@ -1,16 +1,13 @@
-# elam0704_9103_tut6
+### elam0704_9103_tut6
+# Week 8 Quiz
 
-This is my forst local change to the repo!
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+**Part 1** 
 
-**Bold Text** or
-__Bold Text__
+###### While watching ‘Spider-Man: Into the Spider-Verse’, I was inspired by the use of rasterized elements in the animation. Several scenes utilize this technique to convey a sense of speed and the transition between different dimensions while maintaining a comic book aesthetic [1]. The unique approach adds depth and energy to the storytelling, making the visuals more engaging.
+##### After some further research, I discovered a coding tutorial on rasterizing images and integrating them into a 3D space [2]. I believe this method could be beneficial for the major assessment because it offers creative pathways to blend 2D drawings or animations within an interactive 3D space. This approach could potentially provide a dynamic and visually rich experience.
+*(This paragraph was assisted with ChatGPT for clarity and grammar check)*
+
 
 *Italic Text* or
 _Italic Text_
